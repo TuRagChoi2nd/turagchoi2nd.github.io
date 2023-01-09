@@ -1,0 +1,23 @@
+.titel {
+    text-align: center;
+    font-size: 1.5cm;
+    height: 250px;
+}
+
+.sternecounterptone {
+    text-align: center;
+    font-size: 1cm;
+    height: 100px;
+}
+
+.sternecounter {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3cm;
+    height: 150px;
+}
+
+.sternecounterpttwo {
+    text-align: center;
+    font-size: 1cm;
+}

@@ -1,0 +1,26 @@
+.titel {
+    text-align: center;
+    font-size: 2cm;
+    height: 250px;
+}
+
+.sterne {
+    text-align: center;
+    height: 50px;
+}
+
+.subtitel {
+    text-align: center;
+    position: relative;
+    /*: 100px;*/
+}
+
+.fsend {
+    text-align: center;
+    position: relative;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
